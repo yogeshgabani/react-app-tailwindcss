@@ -1,0 +1,13 @@
+.dropdown-menu {
+    box-shadow: 0 0 3.125rem 0 rgba(82, 63, 105, 0.15);
+    display: none;
+    transition: .5s all ease-out;
+
+}
+.box-shadow::after {
+    box-shadow: 0 0.3125rem 0.625rem 0 #0d99ff33;
+}
+.active-show .dropdown-menu {
+    display: block;
+    transition: .5s all ease-out;
+}

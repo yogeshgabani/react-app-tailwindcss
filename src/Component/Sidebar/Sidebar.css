@@ -1,0 +1,90 @@
+
+.sub-menu-list ul {
+    transition: all .05s;
+
+}
+.show-more-menu {
+    height: 100%;
+    transition: all .05s;
+}
+.active .sub-menu {
+    display: block !important;
+    transition: all .05s;
+}
+.sub-menu {
+    display: none;
+}
+.active .down-arrow {
+    transform: rotate(90deg);
+    transition: all .05s ease-out;
+
+}
+.active .menu-hover {
+    background-color: #0d99ff0d;
+}
+.active a .sub-icon, .active a span  {
+    color: #0d99ff !important;
+
+}
+.hide .sidemenu-main  {
+    min-width: 60px;
+    transition: 0.5s all ease-out;
+}
+.hide .sidemenu{
+    width: 60px;
+    transition: 0.5s all ease-out;
+}
+.hide span, .hide h4, .hide .down-arrow, .hide .help-desk-btn, .hide .logo-title, .hide .menu-icon , .hide .before\:duration-500::before{
+    display: none;
+    transition: 0.5s all ease-out;
+
+}
+.hide .arrow-icon{
+    display: block;
+    transition: 0.5s all ease-out;
+}
+.hide ul li a {
+    padding: 0;
+}
+.hide ul li a div {
+    justify-content: center;
+    padding: 10px 0;
+}
+.hide .sidemenu ul li svg{
+    font-size: 22px !important;
+}
+.hide .sub-menu{
+    position: absolute;
+}
+.hide .sidemenu {
+    overflow-y: unset;
+}
+.hide .sub-menu {
+    width: 192px;
+    top: 0;
+    left: 61px;
+    background-color: #fff;
+    box-shadow: 0rem 0rem 2.5rem 0rem rgba(82, 63, 105, 0.1);
+    border-radius: 6px;
+    padding: 6px 20px;
+}
+
+/* @media (max-width:992px) {
+    .sidemenu-main, .sidemenu {
+      min-width: 60px;
+      width: 60px;
+    }
+    .logo-title, .sidemenu ul li span, .down-arrow, .sidemenu ul h4 {
+        display: none;
+    }
+    .sidemenu {
+        overflow-y: unset;
+    }
+    .sidemenu ul li a {
+        padding: 10px;
+    }
+    .sidemenu ul li .flex {
+        justify-content: center;
+
+    }
+  } */

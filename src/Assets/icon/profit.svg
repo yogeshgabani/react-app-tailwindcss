@@ -1,0 +1,52 @@
+<svg id="SvgjsSvg2142" width="281" height="40"
+    xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.com/svgjs" class="apexcharts-svg"
+    xmlns:data="ApexChartsNS" transform="translate(0, 0)" style="background: transparent;">
+    <g id="SvgjsG2144" class="apexcharts-inner apexcharts-graphical" transform="translate(-1, 0)">
+        <defs id="SvgjsDefs2143">
+            <clipPath id="gridRectMaskkyldfw4z">
+                <rect id="SvgjsRect2147" width="288" height="42" x="-3" y="-1" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+            </clipPath>
+            <clipPath id="gridRectMarkerMaskkyldfw4z">
+                <rect id="SvgjsRect2148" width="286" height="44" x="-2" y="-2" rx="0" ry="0" opacity="1" stroke-width="0" stroke="none" stroke-dasharray="0" fill="#fff"></rect>
+            </clipPath>
+            <linearGradient id="SvgjsLinearGradient2153" x1="0" y1="0" x2="0" y2="1">
+                <stop id="SvgjsStop2154" stop-opacity="0.4" stop-color="var(--primary)" offset="0"></stop>
+                <stop id="SvgjsStop2155" stop-opacity="0.4" stop-color="var(--primary)" offset="0.006"></stop>
+                <stop id="SvgjsStop2156" stop-opacity="0" stop-color="white" offset="1"></stop>
+            </linearGradient>
+        </defs>
+        <g id="SvgjsG2159" class="apexcharts-xaxis" transform="translate(0, 0)">
+            <g id="SvgjsG2160" class="apexcharts-xaxis-texts-g" transform="translate(0, -4)"></g>
+        </g>
+        <g id="SvgjsG2173" class="apexcharts-grid">
+            <g id="SvgjsG2174" class="apexcharts-gridlines-horizontal" style="display: none;">
+                <line id="SvgjsLine2176" x1="0" y1="0" x2="282" y2="0" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+                <line id="SvgjsLine2177" x1="0" y1="8" x2="282" y2="8" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+                <line id="SvgjsLine2178" x1="0" y1="16" x2="282" y2="16" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+                <line id="SvgjsLine2179" x1="0" y1="24" x2="282" y2="24" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+                <line id="SvgjsLine2180" x1="0" y1="32" x2="282" y2="32" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+                <line id="SvgjsLine2181" x1="0" y1="40" x2="282" y2="40" stroke="#eeeeee" stroke-dasharray="0" class="apexcharts-gridline"></line>
+            </g>
+            <g id="SvgjsG2175" class="apexcharts-gridlines-vertical" style="display: none;"></g>
+            <line id="SvgjsLine2183" x1="0" y1="40" x2="282" y2="40" stroke="transparent" stroke-dasharray="0"></line>
+            <line id="SvgjsLine2182" x1="0" y1="1" x2="0" y2="40" stroke="transparent" stroke-dasharray="0"></line>
+        </g>
+        <g id="SvgjsG2149" class="apexcharts-area-series apexcharts-plot-series">
+            <g id="SvgjsG2150" class="apexcharts-series" seriesName="NetxProfit" data:longestSeries="true" rel="1" data:realIndex="0">
+                <path id="SvgjsPath2157" d="M 0 40L 0 34.666666666666664L 28.2 8L 56.4 21.333333333333332L 84.6 14.666666666666664L 112.8 21.333333333333332L 141 16L 169.2 24L 197.39999999999998 17.333333333333332L 225.6 21.333333333333332L 253.79999999999998 14.666666666666664L 282 8L 282 40M 282 8z" fill="url(#SvgjsLinearGradient2153)" fill-opacity="1" stroke-opacity="1" stroke-linecap="butt" stroke-width="0" stroke-dasharray="0" class="apexcharts-area" index="0" clip-path="url(#gridRectMaskkyldfw4z)" pathTo="M 0 40L 0 34.666666666666664L 28.2 8L 56.4 21.333333333333332L 84.6 14.666666666666664L 112.8 21.333333333333332L 141 16L 169.2 24L 197.39999999999998 17.333333333333332L 225.6 21.333333333333332L 253.79999999999998 14.666666666666664L 282 8L 282 40M 282 8z" pathFrom="M -1 48L -1 48L 28.2 48L 56.4 48L 84.6 48L 112.8 48L 141 48L 169.2 48L 197.39999999999998 48L 225.6 48L 253.79999999999998 48L 282 48"></path>
+                <path id="SvgjsPath2158" d="M 0 34.666666666666664L 28.2 8L 56.4 21.333333333333332L 84.6 14.666666666666664L 112.8 21.333333333333332L 141 16L 169.2 24L 197.39999999999998 17.333333333333332L 225.6 21.333333333333332L 253.79999999999998 14.666666666666664L 282 8" fill="none" fill-opacity="1" stroke="var(--primary)" stroke-opacity="1" stroke-linecap="butt" stroke-width="2" stroke-dasharray="0" class="apexcharts-area" index="0" clip-path="url(#gridRectMaskkyldfw4z)" pathTo="M 0 34.666666666666664L 28.2 8L 56.4 21.333333333333332L 84.6 14.666666666666664L 112.8 21.333333333333332L 141 16L 169.2 24L 197.39999999999998 17.333333333333332L 225.6 21.333333333333332L 253.79999999999998 14.666666666666664L 282 8" pathFrom="M -1 48L -1 48L 28.2 48L 56.4 48L 84.6 48L 112.8 48L 141 48L 169.2 48L 197.39999999999998 48L 225.6 48L 253.79999999999998 48L 282 48"></path>
+                <g id="SvgjsG2151" class="apexcharts-series-markers-wrap" data:realIndex="0"></g>
+            </g>
+            <g id="SvgjsG2152" class="apexcharts-datalabels" data:realIndex="0"></g>
+        </g>
+        <line id="SvgjsLine2184" x1="0" y1="0" x2="282" y2="0" stroke="#b6b6b6" stroke-dasharray="0" stroke-width="1" class="apexcharts-ycrosshairs"></line>
+        <line id="SvgjsLine2185" x1="0" y1="0" x2="282" y2="0" stroke-dasharray="0" stroke-width="0" class="apexcharts-ycrosshairs-hidden"></line>
+        <g id="SvgjsG2186" class="apexcharts-yaxis-annotations"></g>
+        <g id="SvgjsG2187" class="apexcharts-xaxis-annotations"></g>
+        <g id="SvgjsG2188" class="apexcharts-point-annotations"></g>
+    </g>
+    <g id="SvgjsG2172" class="apexcharts-yaxis" rel="0" transform="translate(-18, 0)"></g>
+    <g id="SvgjsG2145" class="apexcharts-annotations"></g>
+</svg>

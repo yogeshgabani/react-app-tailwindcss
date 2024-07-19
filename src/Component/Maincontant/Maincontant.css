@@ -1,0 +1,5 @@
+.hide .main-contant-data {
+    width: calc(100% - 60px);
+    transition: 0.5s all ease-out;
+
+}
